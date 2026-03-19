@@ -2,7 +2,4 @@ Hello Git Practice..
 
 This my third repository to practice
 
-Practicing Git from basics to Deep
-Final line added now
-Final line added now
-FINAL TEST LINE
+Practicing Git from basics to deep
