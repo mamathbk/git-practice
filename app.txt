@@ -8,4 +8,6 @@ This is the fourth line
 
 Added first line to branch
 
-Added second line to branch
+Added line to second branch
+
+Added line to third branch
