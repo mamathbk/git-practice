@@ -7,3 +7,5 @@ Practicing Git from basics to deep
 This is the fourth line
 
 Added first line to branch
+
+Added second line to branch
